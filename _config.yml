@@ -23,7 +23,7 @@ timezone:
 
 title: 谁不重要                         # the main title
 
-tagline: 这里是谁不重要的博客～   # it will display as the sub-title
+tagline: 这里是谁不重要的博客  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
@@ -32,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: 谁不重要            # change to your github username
+  username: github_usernamenmai           # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,8 +40,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: tomstillcoding
-  email: example@doamin.com             # change to your email address
+  name: zhiquanmai
+  email: 3155721526@qq.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/config/avatar.jpg
+avatar: ./assets/config/AVatar1.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
